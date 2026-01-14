@@ -41,6 +41,8 @@
   	left: 42px;
   	letter-spacing: 0.14em;
   	white-space: pre-wrap;
+	color: gray;
+	font-size: 50px;
 }
 .image-15-icon {
   	position: absolute;
